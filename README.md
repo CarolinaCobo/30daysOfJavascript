@@ -7,4 +7,6 @@ I'll be login my progress here!
 #### Day 3 ✅
 #### Day 4 ✅
 #### Day 5 ✅
+#### Day 6 ✅
+
 
