@@ -30,7 +30,7 @@ I'll be login my progress here!
 #### Day 25 ✅
 #### Day 26 ✅
 #### Day 27 ✅
-#### Day 28
+#### Day 28 ✅
 #### Day 29
 #### Day 30
 
