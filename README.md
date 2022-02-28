@@ -31,8 +31,8 @@ I'll be login my progress here!
 #### Day 26 ✅
 #### Day 27 ✅
 #### Day 28 ✅
-#### Day 29
-#### Day 30
+#### Day 29 ✅
+#### Day 30 ✅
 
 
 
